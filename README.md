@@ -1,5 +1,3 @@
-## ❤ Views and Followers
-
 <a href="https://github.com/Randhir200/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Randhir200">
 </a>
