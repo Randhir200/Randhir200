@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My-Portfolio](https://randhir-kumar.netlify.app/)**
+- 👨‍💻 All of my best projects are available at **[My-Portfolio](https://randhir-kumar.netlify.app/)**
 
 - 📫 How to reach me **mail.randhirkr@gmail.com**
 
