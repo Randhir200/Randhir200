@@ -54,8 +54,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Randhir200/github-readme-activity-graph"><img alt="Randhir Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Randhir200&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
